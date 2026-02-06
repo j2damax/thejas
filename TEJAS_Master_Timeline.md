@@ -7,13 +7,13 @@
 
 | Date | Category | Title / Achievement | Organization / Location | Key Details |
 |------|----------|---------------------|-------------------------|-------------|
-| 2000-01-01 | Service | Coach | QsStaThilakPereraSumanatissaTh | File: 2000-01-01_Service_QsStaThilakPereraSumanatissaTh_Coach.pdf |
-| 2004-01-01 | Education | Certificate | TrainingCourseorganizedbytheIn | File: 2004-01-01_Education_TrainingCourseorganizedbytheIn_Certificate.pdf |
+| 2000-01-01 | Service | Coach | Qs Sta Thilaka Perera Sumanatissa School | File: 2000-01-01_Service_QsStaThilakPereraSumanatissaTh_Coach.pdf |
+| 2004-01-01 | Education | Certificate | Training Course Organizer | File: 2004-01-01_Education_TrainingCourseorganizedbytheIn_Certificate.pdf |
 | 2006-01-01 | Award | Certificate | Ministry of Sports (Sri Lanka) | File: 2006-01-01_Award_MoS_Certificate.pdf |
-| 2008-01-01 | Education | Certificate | BangladeshWushuAssociation | File: 2008-01-01_Education_BangladeshWushuAssociation_Certificate.pdf |
+| 2008-01-01 | Education | Certificate | Bangladesh Wushu Association | File: 2008-01-01_Education_BangladeshWushuAssociation_Certificate.pdf |
 | 2009-01-01 | Award | Certificate | Unknown | File: 2009-01-01_Award_Unknown_Certificate.pdf |
 | 2009-01-01 | Service | Coach | Unknown | File: 2009-01-01_Service_Unknown_Coach.pdf |
-| 2010-01-01 | Service | Service Letter | BronzemedalPresidentSouthAsiaO | File: 2010-01-01_Service_BronzemedalPresidentSouthAsiaO_ServiceLetter.pdf |
+| 2010-01-01 | Service | Service Letter | South Asian Olympics | File: 2010-01-01_Service_BronzemedalPresidentSouthAsiaO_ServiceLetter.pdf |
 | 2011-01-01 | Education | Certificate | Ministry of Sports (Sri Lanka) | File: 2011-01-01_Education_MoS_Certificate.pdf |
 | 2011-01-01 | Service | Service Letter | Unknown | File: 2011-01-01_Service_Unknown_ServiceLetter.pdf |
 | 2012-01-01 | Service | Service Letter | University of Peradeniya | Official position document. File: 2012-01-01_Service_UnivPeradeniya_ServiceLetter.pdf |
@@ -45,7 +45,7 @@
 
 | Category | Title / Achievement | Organization / Location | Notes |
 |----------|---------------------|-------------------------|-------|
-| Award | World Championship | AbdurrahmanAKYUZTurkeyWushuFed | 0000-01-01_Award_AbdurrahmanAKYUZTurkeyWushuFed_WorldChampionship.pdf |
+| Award | World Championship | Turkey Wushu Federation | 0000-01-01_Award_AbdurrahmanAKYUZTurkeyWushuFed_WorldChampionship.pdf |
 | Award | Certificate | Korea Taekkyeon Association | 0000-01-01_Award_KoreaTaekkyeonAssoc_Certificate.pdf |
 | Award | National Championship | WushuFederation | 0000-01-01_Award_WushuFederation_NationalChampionship.pdf |
 | Education | Certificate | Unknown | 0000-01-01_Education_Unknown_Certificate.pdf |
