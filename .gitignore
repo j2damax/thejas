@@ -3,3 +3,7 @@
 *.swo
 *~
 .vscode/
+__pycache__/
+*.pyc
+*.pyo
+photo_manual_mapping.json
